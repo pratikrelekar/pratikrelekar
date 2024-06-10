@@ -22,7 +22,7 @@ I am a Data Scientist with over 5 years of experience in the fields of Machine L
  <a href="https://pytorch.org/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" height="50" width="50" /></a>&nbsp;
  <a href="https://opencv.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/opencv/opencv-original.svg" alt="OpenCV" height="50" width="50" /></a>&nbsp;
  <a href="https://numpy.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original.svg" alt="Numpy" height="50" width="50" /></a>&nbsp;
- <a href="https://numba.pydata.org/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Numba_logo.svg" alt="Numba" height="50" width="50" /></a>&nbsp;
+ <a href="https://www.dask.org" target="blank"><img align="center" src="https://docs.dask.org/en/latest/_images/dask_icon.svg" alt="Dask" height="50" width="50" /></a>&nbsp;
 
 <p align="center">
  <a href="https://www.docker.com/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=docker" alt="Docker" height="50" width="50" /></a>&nbsp;
