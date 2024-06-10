@@ -59,7 +59,5 @@ I am a Data Scientist with over 5 years of experience in the fields of Machine L
 
 ---
 
-<img align="left" alt="Pratik's Github Stats" src="https://pratikrelekar-github-io-main.vercel.app" /> 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman-gaber&layout=compact&theme=dark&hide=matlab,html,verilog,vhdl,systemverilog,stata)](https://github.com/pratikrelekar/github-readme-stats) 
 
