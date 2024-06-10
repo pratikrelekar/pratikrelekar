@@ -1,11 +1,11 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi there 👋, I'm Abdelrahman</h1></summary>
+    <summary><h1 style="display: inline-block">Hello there 👋, I'm Pratik</h1></summary>
   </ul>
 </div>
 
-I am a Machine Learning Engineer with over 5 years of experience in the fields of Machine Learning, Deep Learning and Computer Vision, along with exposure to Robotics. I currently work as a Machine Learning Engineer at [avatarin](https://avatarin.com/), trying to enhance robots' human-like capabilities using Imitation Learning and Computer Vision.
+I am a Data Scientist with over 5 years of experience in the fields of Machine Learning, Business Intelligence and Computer Vision, along with exposure to Electrical Engineering. I currently work as a Data Scientist at [Data Science Research Services at the University of Illinois at Urbana Champaign]((https://dsrs.illinois.edu)), delivering Data Science solutions and research.
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -54,24 +54,12 @@ I am a Machine Learning Engineer with over 5 years of experience in the fields o
 </div>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/abdelrahmangaber/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" height="50" width="50" /></a>  
+<a href="https://www.linkedin.com/in/pratikrelekar/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" height="50" width="50" /></a>  
 </p>
 
 ---
 
-<img align="left" alt="abdelrahman-gaber's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdelrahman-gaber&theme=dark&show_icons=true&count_private=true&include_all_commits=true&&hide=prs,contribs&hide_border=true" /> 
+<img align="left" alt="Pratik's Github Stats" src="https://pratikrelekar-github-io-main.vercel.app" /> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman-gaber&layout=compact&theme=dark&hide=matlab,html,verilog,vhdl,systemverilog,stata)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman-gaber&layout=compact&theme=dark&hide=matlab,html,verilog,vhdl,systemverilog,stata)](https://github.com/pratikrelekar/github-readme-stats) 
 
-
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
