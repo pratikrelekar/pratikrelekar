@@ -25,6 +25,8 @@ I am a Data Scientist with over 5 years of experience in the fields of Machine L
  <a href="https://numpy.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original.svg" alt="Numpy" height="50" width="50" /></a>&nbsp;
    <a href="https://pandas.pydata.org" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="50" width="50" /></a>&nbsp;
  <a href="https://www.dask.org" target="blank"><img align="center" src="https://docs.dask.org/en/latest/_images/dask_icon.svg" alt="Dask" height="50" width="50" /></a>&nbsp;
+ <a href="https://pola.rs" target="blank"><img align="center" src="https://raw.githubusercontent.com/pola-rs/polars-static/master/banner/polars_github_banner.svg" alt="Dask" height="50" width="50" /></a>&nbsp;
+
 
 <p align="center">
  <a href="https://www.docker.com/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=docker" alt="Docker" height="50" width="50" /></a>&nbsp;
