@@ -31,7 +31,7 @@ I am a Data Scientist with over 5 years of experience in the fields of Machine L
 <p align="center">
  <a href="https://www.docker.com/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=docker" alt="Docker" height="50" width="50" /></a>&nbsp;
  <a href="https://git-scm.com/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" width="50" /></a>&nbsp;
- <a href="https://www.atlassian.com/software/jira" target="blank"><img align="center" src="https://jira.law.nyu.edu/images/atlassian-jira-logo-large.png" alt="Jira" height="50" width="50" /></a>&nbsp;
+ <a href="https://www.atlassian.com/software/jira" target="blank"><img align="center" src="https://jira.law.nyu.edu/images/atlassian-jira-logo-large.png" alt="Jira" height="50" width="70" /></a>&nbsp;
 </p>
 
 <p align="center">
