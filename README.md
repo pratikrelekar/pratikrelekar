@@ -5,7 +5,7 @@
   </ul>
 </div>
 
-I am a Data Scientist with over 5 years of experience in the fields of Machine Learning, Business Intelligence, Natural Language Processing and Computer Vision, along with exposure to Electrical Engineering and a budding Deep Learning exploration. I currently work as a Data Scientist at [Data Science Research Services at the University of Illinois at Urbana Champaign]((https://dsrs.illinois.edu)), delivering Data Science solutions and research and a firm believer of solving problems with innovation, thats what innovation is for 😎.
+I am a Data Scientist with over 5 years of experience in the fields of Machine Learning, Business Intelligence, Natural Language Processing and Computer Vision, along with exposure to Electrical Engineering and a budding Deep Learning exploration. I currently work as a Data Scientist at [Data Science Research Services at the University of Illinois at Urbana Champaign]((https://dsrs.illinois.edu)), delivering Data Science solutions and research and a firm believer of solving problems with innovation, thats what innovation is for.
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
