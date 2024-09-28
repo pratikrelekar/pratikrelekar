@@ -25,7 +25,7 @@ I am a Data Scientist with over 5 years of experience in the fields of Machine L
  <a href="https://numpy.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original.svg" alt="Numpy" height="50" width="50" /></a>&nbsp;
    <a href="https://pandas.pydata.org" target="blank"><img align="center" src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" height="50" width="50" /></a>&nbsp;
  <a href="https://www.dask.org" target="blank"><img align="center" src="https://docs.dask.org/en/latest/_images/dask_icon.svg" alt="Dask" height="50" width="50" /></a>&nbsp;
- <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="blank"><img align="center" src="https://en.wikipedia.org/wiki/Apache_Spark#/media/File:Apache_Spark_logo.svg" alt="Dask" height="50" width="50" /></a>&nbsp;
+ <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" alt="Dask" height="50" width="50" /></a>&nbsp;
   <a href="https://pola.rs" target="blank"><img align="center" src="https://raw.githubusercontent.com/pola-rs/polars-static/master/banner/polars_github_banner.svg" alt="Dask" height="50" width="50" /></a>&nbsp;
 
 
