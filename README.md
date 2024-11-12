@@ -27,7 +27,7 @@ I am a Data Scientist with over 5 years of experience in the fields of Machine L
  <a href="https://www.dask.org" target="blank"><img align="center" src="https://docs.dask.org/en/latest/_images/dask_icon.svg" alt="Dask" height="50" width="50" /></a>&nbsp;
  <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1280px-Apache_Spark_logo.svg.png" alt="Dask" height="50" width="50" /></a>&nbsp;
   <a href="https://pola.rs" target="blank"><img align="center" src="https://raw.githubusercontent.com/pola-rs/polars-static/master/banner/polars_github_banner.svg" alt="Polars" height="50" width="50" /></a>&nbsp;
-  <a href="https://huggingface.co" target="blank"><img align="center" src="https://cdn.prod.website-files.com/657639ebfb91510f45654149/66bbf2250478cce84c3c3760_66bbf21b7f0ee244a1589b75_c3635b59-a3d2-444a-b636-a9d0061dcdde.png" alt="HuggingFace" height="50" width="80" /></a>&nbsp;
+  <a href="https://huggingface.co" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/huggingface-2.svg" alt="HuggingFace" height="50" width="80" /></a>&nbsp;
 
 
 <p align="center">
