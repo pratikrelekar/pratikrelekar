@@ -5,7 +5,7 @@
   </ul>
 </div>
 
-I am a Data Scientist with over 5 years of experience in the fields of Machine Learning, Business Intelligence, Natural Language Processing and Computer Vision, along with exposure to Electrical Engineering and a budding Deep Learning exploration. I currently work as a Data Scientist delivering Data Science solutions and research and a firm believer of solving problems with innovative approach, thats what innovation is for.
+I am a Data Scientist and a current Research Fellow at UIUC with over 5 years of experience in the fields of Machine Learning, Business Intelligence, Natural Language Processing and Computer Vision, along with exposure to Electrical Engineering and a budding Deep Learning exploration. I currently work as a Data Scientist delivering Data Science solutions and research and a firm believer of solving problems with innovative approach, thats what innovation is for.
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
